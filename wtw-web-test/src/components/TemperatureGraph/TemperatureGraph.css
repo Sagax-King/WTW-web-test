@@ -1,0 +1,7 @@
+.graph-container {
+  display: flex; 
+  align-items: center; 
+  justify-content: flex-start; 
+  padding-top: 20px; 
+  flex-direction: column;
+}

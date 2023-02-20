@@ -1,0 +1,26 @@
+.cities-container {
+  display: flex; 
+  align-items: center; 
+  justify-content: flex-start; 
+  padding-top: 20px; 
+  flex-direction: column;
+}
+
+.cities-table {
+  border-collapse: collapse; 
+  font-size: 14px;
+}
+
+.heading-row {
+  background-color: #D3D3D3
+}
+
+.table-heading {
+  padding: 6px 10px; 
+  border: 1px solid black;
+}
+
+.table-cell {
+  border: 1px solid black; 
+  padding: 6px;
+}
