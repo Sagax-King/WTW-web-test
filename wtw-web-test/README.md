@@ -7,3 +7,23 @@
 - State managed via redux
 - Tested using jest and the react-testing library
 - API calls mocked with msw
+
+## Commands
+
+```
+npm run start
+```
+
+Runs the server
+
+```
+npm run test
+```
+
+Runs the tests
+
+```
+npm install
+```
+
+Must be ran before either commands however
