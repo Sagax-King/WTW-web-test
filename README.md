@@ -1,6 +1,6 @@
 # Web Application Engineer - Technical Test
 
-This project consists of 2 apps, on is an express REST API. And the other is a React frontend.
+This project consists of 2 apps, one is an express REST API. And the other is a React frontend.
 
 ## REST API
 
